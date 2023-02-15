@@ -2,7 +2,7 @@
  * Defines the base URL for the API.
  * The default values is overridden by the `API_BASE_URL` environment variable.
  */
-const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || "https://flashcard-o-matic-server.vercel.app/";
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || "flashcard-o-matic-server-4c2n27aho-jalonlewis.vercel.app";
 
 /**
  * Defines the default headers for these functions to work with `json-server`
